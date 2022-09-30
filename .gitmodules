@@ -1,0 +1,17 @@
+[submodule "tools/pokyuser/.oh-my-zsh"]
+	path = tools/pokyuser/.oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "yocto/layers/poky"]
+	path = yocto/layers/poky
+	url = git://git.yoctoproject.org/poky
+	branch = kirkstone
+[submodule "yocto/layers/meta-openembedded"]
+	path = yocto/layers/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = kirkstone
+[submodule "yocto/layers/meta-openwrt"]
+	path = yocto/layers/meta-openwrt
+	url = git@github.com:yocto-wrt/meta-openwrt.git
+[submodule "yocto/layers/meta-yoctowrt"]
+	path = yocto/layers/meta-yoctowrt
+	url = git@github.com:yocto-wrt/meta-yoctowrt.git

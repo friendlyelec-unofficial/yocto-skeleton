@@ -1,0 +1,9 @@
+tools/pokyuser/.bash_history
+tools/pokyuser/.zsh_history
+tools/pokyuser/.zcompdump*
+tools/pokyuser/.subversion
+tools/pokyuser/.wget-hsts
+
+yocto/build/*
+!yocto/build/qemux86-64/conf
+
