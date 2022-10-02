@@ -11,7 +11,7 @@
 	branch = kirkstone
 [submodule "yocto/layers/meta-openwrt"]
 	path = yocto/layers/meta-openwrt
-	url = git@github.com:yocto-wrt/meta-openwrt.git
+	url = git@github.com:friendlyelec-unofficial/meta-openwrt.git
 [submodule "yocto/layers/meta-yoctowrt"]
 	path = yocto/layers/meta-yoctowrt
-	url = git@github.com:yocto-wrt/meta-yoctowrt.git
+	url = git@github.com:friendlyelec-unofficial/meta-yoctowrt.git

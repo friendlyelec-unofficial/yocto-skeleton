@@ -4,6 +4,8 @@ tools/pokyuser/.zcompdump*
 tools/pokyuser/.subversion
 tools/pokyuser/.wget-hsts
 
-yocto/build/*
-!yocto/build/qemux86-64/conf
-
+yocto/build/*/cache
+yocto/build/*/downloads
+yocto/build/*/sstate-cache
+yocto/build/*/tmp
+yocto/build/*/bitbake-cookerdaemon.log
